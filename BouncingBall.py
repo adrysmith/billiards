@@ -1,3 +1,4 @@
+#Adry was here
 import matplotlib.pyplot as plt
 
 GRAVITY = -9.80665 #m/s^2
