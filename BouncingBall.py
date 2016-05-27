@@ -1,4 +1,5 @@
 #Adry was here
+#And she retuned.
 import matplotlib.pyplot as plt
 
 GRAVITY = -9.80665 #m/s^2
